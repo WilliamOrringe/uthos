@@ -77,7 +77,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = "SoftwareDev.wsgi.application"
+WSGI_APPLICATION = "Uthos.wsgi.application"
 
 # Logging settings
 LOGGING = {
