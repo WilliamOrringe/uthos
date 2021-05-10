@@ -8,9 +8,3 @@ class UserAdmin(admin.ModelAdmin):
 
 
 admin.site.register(User, UserAdmin)
-admin.site.register(Community)
-admin.site.register(Post)
-admin.site.register(PostComment)
-admin.site.register(PostLike)
-admin.site.register(PostCommentLike)
-admin.site.register(CommunityMember)
